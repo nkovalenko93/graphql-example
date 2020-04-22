@@ -1,0 +1,4 @@
+type Library {
+    id: ID!
+    name: String!
+}

@@ -1,0 +1,330 @@
+[
+  {
+    "id": 1,
+    "name": "Chinua Achebe"
+  },
+  {
+    "id": 2,
+    "name": "Hans Christian Andersen"
+  },
+  {
+    "id": 3,
+    "name": "Dante Alighieri"
+  },
+  {
+    "id": 4,
+    "name": "Unknown"
+  },
+  {
+    "id": 5,
+    "name": "Jane Austen"
+  },
+  {
+    "id": 6,
+    "name": "Honoré de Balzac"
+  },
+  {
+    "id": 7,
+    "name": "Samuel Beckett"
+  },
+  {
+    "id": 8,
+    "name": "Giovanni Boccaccio"
+  },
+  {
+    "id": 9,
+    "name": "Jorge Luis Borges"
+  },
+  {
+    "id": 10,
+    "name": "Emily Brontë"
+  },
+  {
+    "id": 11,
+    "name": "Albert Camus"
+  },
+  {
+    "id": 12,
+    "name": "Paul Celan"
+  },
+  {
+    "id": 13,
+    "name": "Louis-Ferdinand Céline"
+  },
+  {
+    "id": 14,
+    "name": "Miguel de Cervantes"
+  },
+  {
+    "id": 15,
+    "name": "Geoffrey Chaucer"
+  },
+  {
+    "id": 16,
+    "name": "Anton Chekhov"
+  },
+  {
+    "id": 17,
+    "name": "Joseph Conrad"
+  },
+  {
+    "id": 18,
+    "name": "Charles Dickens"
+  },
+  {
+    "id": 19,
+    "name": "Denis Diderot"
+  },
+  {
+    "id": 20,
+    "name": "Alfred Döblin"
+  },
+  {
+    "id": 21,
+    "name": "Fyodor Dostoevsky"
+  },
+  {
+    "id": 22,
+    "name": "George Eliot"
+  },
+  {
+    "id": 23,
+    "name": "Ralph Ellison"
+  },
+  {
+    "id": 24,
+    "name": "Euripides"
+  },
+  {
+    "id": 25,
+    "name": "William Faulkner"
+  },
+  {
+    "id": 26,
+    "name": "Gustave Flaubert"
+  },
+  {
+    "id": 27,
+    "name": "Federico García Lorca"
+  },
+  {
+    "id": 28,
+    "name": "Gabriel García Márquez"
+  },
+  {
+    "id": 29,
+    "name": "Johann Wolfgang von Goethe"
+  },
+  {
+    "id": 30,
+    "name": "Nikolai Gogol"
+  },
+  {
+    "id": 31,
+    "name": "Günter Grass"
+  },
+  {
+    "id": 32,
+    "name": "João Guimarães Rosa"
+  },
+  {
+    "id": 33,
+    "name": "Knut Hamsun"
+  },
+  {
+    "id": 34,
+    "name": "Ernest Hemingway"
+  },
+  {
+    "id": 35,
+    "name": "Homer"
+  },
+  {
+    "id": 36,
+    "name": "Henrik Ibsen"
+  },
+  {
+    "id": 37,
+    "name": "James Joyce"
+  },
+  {
+    "id": 38,
+    "name": "Franz Kafka"
+  },
+  {
+    "id": 39,
+    "name": "Kālidāsa"
+  },
+  {
+    "id": 40,
+    "name": "Yasunari Kawabata"
+  },
+  {
+    "id": 41,
+    "name": "Nikos Kazantzakis"
+  },
+  {
+    "id": 42,
+    "name": "D. H. Lawrence"
+  },
+  {
+    "id": 43,
+    "name": "Halldór Laxness"
+  },
+  {
+    "id": 44,
+    "name": "Giacomo Leopardi"
+  },
+  {
+    "id": 45,
+    "name": "Doris Lessing"
+  },
+  {
+    "id": 46,
+    "name": "Astrid Lindgren"
+  },
+  {
+    "id": 47,
+    "name": "Lu Xun"
+  },
+  {
+    "id": 48,
+    "name": "Naguib Mahfouz"
+  },
+  {
+    "id": 49,
+    "name": "Thomas Mann"
+  },
+  {
+    "id": 50,
+    "name": "Herman Melville"
+  },
+  {
+    "id": 51,
+    "name": "Michel de Montaigne"
+  },
+  {
+    "id": 52,
+    "name": "Elsa Morante"
+  },
+  {
+    "id": 53,
+    "name": "Toni Morrison"
+  },
+  {
+    "id": 54,
+    "name": "Murasaki Shikibu"
+  },
+  {
+    "id": 55,
+    "name": "Robert Musil"
+  },
+  {
+    "id": 56,
+    "name": "Vladimir Nabokov"
+  },
+  {
+    "id": 57,
+    "name": "George Orwell"
+  },
+  {
+    "id": 58,
+    "name": "Ovid"
+  },
+  {
+    "id": 59,
+    "name": "Fernando Pessoa"
+  },
+  {
+    "id": 60,
+    "name": "Edgar Allan Poe"
+  },
+  {
+    "id": 61,
+    "name": "Marcel Proust"
+  },
+  {
+    "id": 62,
+    "name": "François Rabelais"
+  },
+  {
+    "id": 63,
+    "name": "Juan Rulfo"
+  },
+  {
+    "id": 64,
+    "name": "Rumi"
+  },
+  {
+    "id": 65,
+    "name": "Salman Rushdie"
+  },
+  {
+    "id": 66,
+    "name": "Saadi"
+  },
+  {
+    "id": 67,
+    "name": "Tayeb Salih"
+  },
+  {
+    "id": 68,
+    "name": "José Saramago"
+  },
+  {
+    "id": 69,
+    "name": "William Shakespeare"
+  },
+  {
+    "id": 70,
+    "name": "Sophocles"
+  },
+  {
+    "id": 71,
+    "name": "Stendhal"
+  },
+  {
+    "id": 72,
+    "name": "Laurence Sterne"
+  },
+  {
+    "id": 73,
+    "name": "Italo Svevo"
+  },
+  {
+    "id": 74,
+    "name": "Jonathan Swift"
+  },
+  {
+    "id": 75,
+    "name": "Leo Tolstoy"
+  },
+  {
+    "id": 76,
+    "name": "Mark Twain"
+  },
+  {
+    "id": 77,
+    "name": "Valmiki"
+  },
+  {
+    "id": 78,
+    "name": "Virgil"
+  },
+  {
+    "id": 79,
+    "name": "Vyasa"
+  },
+  {
+    "id": 80,
+    "name": "Walt Whitman"
+  },
+  {
+    "id": 81,
+    "name": "Virginia Woolf"
+  },
+  {
+    "id": 82,
+    "name": "Marguerite Yourcenar"
+  }
+]

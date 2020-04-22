@@ -1,0 +1,16 @@
+type Book {
+    id: ID!
+    title: String!
+    imageLink: String
+    link: String
+    pages: Int
+    year: Int
+    authorId: Int
+    author: Author
+    countryId: Int
+    country: Country
+    languageId: Int
+    language: Language
+    libraryId: Int
+    library: Library
+}

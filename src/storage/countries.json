@@ -1,0 +1,166 @@
+[
+  {
+    "id": 1,
+    "name": "Nigeria"
+  },
+  {
+    "id": 2,
+    "name": "Denmark"
+  },
+  {
+    "id": 3,
+    "name": "Italy"
+  },
+  {
+    "id": 4,
+    "name": "Sumer and Akkadian Empire"
+  },
+  {
+    "id": 5,
+    "name": "Achaemenid Empire"
+  },
+  {
+    "id": 6,
+    "name": "India/Iran/Iraq/Egypt/Tajikistan"
+  },
+  {
+    "id": 7,
+    "name": "Iceland"
+  },
+  {
+    "id": 8,
+    "name": "United Kingdom"
+  },
+  {
+    "id": 9,
+    "name": "France"
+  },
+  {
+    "id": 10,
+    "name": "Republic of Ireland"
+  },
+  {
+    "id": 11,
+    "name": "Argentina"
+  },
+  {
+    "id": 12,
+    "name": "Algeria, French Empire"
+  },
+  {
+    "id": 13,
+    "name": "Romania, France"
+  },
+  {
+    "id": 14,
+    "name": "Spain"
+  },
+  {
+    "id": 15,
+    "name": "England"
+  },
+  {
+    "id": 16,
+    "name": "Russia"
+  },
+  {
+    "id": 17,
+    "name": "Germany"
+  },
+  {
+    "id": 18,
+    "name": "United States"
+  },
+  {
+    "id": 19,
+    "name": "Greece"
+  },
+  {
+    "id": 20,
+    "name": "Colombia"
+  },
+  {
+    "id": 21,
+    "name": "Saxe-Weimar"
+  },
+  {
+    "id": 22,
+    "name": "Brazil"
+  },
+  {
+    "id": 23,
+    "name": "Norway"
+  },
+  {
+    "id": 24,
+    "name": "Irish Free State"
+  },
+  {
+    "id": 25,
+    "name": "Czechoslovakia"
+  },
+  {
+    "id": 26,
+    "name": "India"
+  },
+  {
+    "id": 27,
+    "name": "Japan"
+  },
+  {
+    "id": 28,
+    "name": "Sweden"
+  },
+  {
+    "id": 29,
+    "name": "China"
+  },
+  {
+    "id": 30,
+    "name": "Egypt"
+  },
+  {
+    "id": 31,
+    "name": "Austria"
+  },
+  {
+    "id": 32,
+    "name": "Russia/United States"
+  },
+  {
+    "id": 33,
+    "name": "Roman Empire"
+  },
+  {
+    "id": 34,
+    "name": "Portugal"
+  },
+  {
+    "id": 35,
+    "name": "Mexico"
+  },
+  {
+    "id": 36,
+    "name": "Sultanate of Rum"
+  },
+  {
+    "id": 37,
+    "name": "United Kingdom, India"
+  },
+  {
+    "id": 38,
+    "name": "Persia, Persian Empire"
+  },
+  {
+    "id": 39,
+    "name": "Sudan"
+  },
+  {
+    "id": 40,
+    "name": "Ireland"
+  },
+  {
+    "id": 41,
+    "name": "France/Belgium"
+  }
+]

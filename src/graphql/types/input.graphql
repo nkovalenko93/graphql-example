@@ -1,0 +1,16 @@
+input BookInput {
+    title: String!
+    imageLink: String
+    link: String
+    pages: Int
+    year: Int
+    authorId: Int
+    countryId: Int
+    languageId: Int
+    libraryId: Int
+}
+
+input CountryInput {
+    id: Int,
+    name: String
+}
